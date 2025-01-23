@@ -88,6 +88,7 @@ p{
 .fondo{
     background-image: url("./img/abstract-banner-design-vector.jpg");
     background-repeat: no-repeat;
+    height: auto;
 
 }
 
@@ -97,11 +98,17 @@ a{
 }
 
 .footer{
-    display: flex;
+/*     display: flex;
     background-color:#333 ;
     justify-content: center;
     float: left;
     width: 100%;
-    padding: 5px 3px;
+    padding: 5px 3px; */
+    /* display: flex; */
+    background-color:#333 ;
+   
+    text-align: center;
+    
+    padding: 24px;
 }
 
